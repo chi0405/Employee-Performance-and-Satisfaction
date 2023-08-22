@@ -1,4 +1,3 @@
-# Employee-Performance-and-Satisfaction
 # Employee Performance and Satisfaction Analysis
 
 This repository contains an analysis of employee performance and satisfaction using Python and data visualization libraries. The analysis explores various aspects of employee data, including productivity, satisfaction rates, salary, departments, positions, and more.
