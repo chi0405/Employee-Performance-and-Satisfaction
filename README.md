@@ -16,6 +16,7 @@ Employee performance and satisfaction are crucial factors in organizational succ
 ## Data
 
 The analysis uses a dataset containing employee data, including metrics such as productivity, satisfaction rates, salary, department, position, and more. The dataset is preprocessed and cleaned to facilitate meaningful analysis.
+Data source: https://www.kaggle.com/datasets/adityaab1407/employee-productivity-and-satisfaction-hr-data
 
 ## Analysis
 
